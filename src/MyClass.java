@@ -3,7 +3,7 @@
  */
 public class MyClass {
 
-    static void sayHello(String name) {
+    private static void sayHello(String name) {
         System.out.println("Hello " + name);
     }
 

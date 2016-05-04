@@ -7,7 +7,7 @@ public class greaterOne {
         System.out.println("The greather one is "+ res);
     }
 
-    static int max(int a, int b) {
+    private static int max(int a, int b) {
         if (a > b) {
             return a;
         }

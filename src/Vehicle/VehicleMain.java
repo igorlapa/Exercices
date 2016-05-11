@@ -18,7 +18,7 @@ public class VehicleMain {
 
         v1.setFuelCapacity(150);
 
-        System.out.println("First vehicle have "+ v1.getColour() + " colour.");
+        System.out.println("First vehicle have "+ v1.getColor() + " color.");
 
 
         System.out.println("First vehicle speed equal "+ v1.getMaxSpeed() + " km/h.");

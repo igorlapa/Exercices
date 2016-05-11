@@ -5,6 +5,8 @@ package Arrays;
  */
 public class ArrayOne {
     public static void main (String[] args) {
-        System.out.println("Hello World");
+        String[] myNames = { "A", "B", "C", "D", "E"};
+
+        System.out.println(myNames[4]);
     }
 }
